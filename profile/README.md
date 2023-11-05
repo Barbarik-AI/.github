@@ -1,4 +1,4 @@
-# 🚀 A full-stack analytics team in your pocket
+# 🚀 Your AI copilot for finance teams
 
 Welcome to the Barbarik.ai organization on GitHub. We are dedicated to providing complete and cutting-edge AI-powered analytics solutions for CFOs and financial professionals. Our mission is to streamline financial data analysis and decision-making, making it faster and more insightful than ever before.
 

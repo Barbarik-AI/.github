@@ -13,8 +13,6 @@ Have questions or feedback? You can reach us at [hello@barbarik.ai ✉️](mailt
 Connect with us on social media:
 - [LinkedIn](https://www.linkedin.com/company/barbarik-ai/)
 
-We're excited to have you join our mission to transform financial analytics with AI. Let's work together to make your CFO's job more efficient and insightful!
-
 <!--
 
 **Here are some ideas to get you started:**

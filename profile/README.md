@@ -12,6 +12,7 @@ Have questions or feedback? You can reach us at [hello@barbarik.ai ✉️](mailt
 
 Connect with us on social media:
 - [LinkedIn](https://www.linkedin.com/company/barbarik-ai/)
+- [Twitter](https://twitter.com/BarbarikAI)
 
 <!--
 
